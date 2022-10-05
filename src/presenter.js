@@ -12,7 +12,7 @@ const juegoForm = document.querySelector("#inicio-form");
 iniForm.addEventListener("submit", (event) => {
   event.preventDefault();
   
-  iniForm.innerHTML = "";
+  //iniForm.innerHTML = "";
 });
 
 //<input type="text" id="idintento" />
