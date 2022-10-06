@@ -7,6 +7,9 @@ class TorosYVacas{
     getClave() {
         return this.clave;
     }
+    intentar(intento){
+        return "";
+    }
 
 }
 
